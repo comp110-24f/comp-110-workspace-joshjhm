@@ -3,7 +3,7 @@
 __author__ = "730668650"
 
 
-def num_instances(phrase=str, search_char=str) -> int:
+def num_instances(phrase: str, search_char: str) -> int:
     """returns # of times a character occurs in a string"""
     count: int = 0
     index: int = 0
@@ -21,3 +21,4 @@ def num_instances(phrase=str, search_char=str) -> int:
 
 # trouble figuring out syntax for while statement
 # added index = index + 1 to if statement to prevent infinite loop
+# changed syntex on function definition parameters due to autograder
