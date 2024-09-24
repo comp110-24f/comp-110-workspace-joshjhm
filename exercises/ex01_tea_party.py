@@ -1,4 +1,4 @@
-"""ex01_tea_party second exercise"""
+"""Second COMP110 exercise"""
 
 __author__: str = "730668650"
 
